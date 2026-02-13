@@ -1,1 +1,1 @@
-# redflagged-privacy
+# snoor-privacy
